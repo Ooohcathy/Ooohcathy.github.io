@@ -1,0 +1,20 @@
+body {
+  background-image: url(https://images.unsplash.com/photo-1471286274405-579f8d7132d8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60);
+  background-size: 100vw 100vh;
+}
+.jumbotron {
+  background-color: rgb(245, 236, 50);
+}
+
+h1 {
+  font-family: Noto Serif JP;
+}
+.btn-primary {
+  background-color: rgb(72, 46, 116);
+  border-color: rgb(72, 46, 116);
+}
+
+.btn-primary:hover {
+  background-color: rgb(122, 112, 141);
+  border-color: rgb(122, 112, 141);
+}
